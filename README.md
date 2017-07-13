@@ -1,2 +1,2 @@
-# kotlin_androiodd_emo
+# kotlin_androiod_demo
 使用Kotlin构建简单的android demo
